@@ -1,0 +1,6 @@
+{
+  "name": "Inkline",
+  "description": "A clean, responsive full-stack editorial blog application for reading, writing, and managing published posts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
